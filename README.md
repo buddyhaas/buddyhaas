@@ -1,4 +1,3 @@
 - 👋 I’m @buddyhaas
-- 👀 I’m interested in data, real estate, and psychology.
-- 🌱 I’m currently learning Azure Databricks Data Engineering.
+- 👀 I’m interested in minds
 - ⚡ Fun fact: My cat knows how to fetch.
